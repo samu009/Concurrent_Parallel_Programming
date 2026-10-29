@@ -1,0 +1,12 @@
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\bin\Debug\net10.0\ConcurrentLab.Domain.deps.json
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\bin\Debug\net10.0\ConcurrentLab.Domain.dll
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\bin\Debug\net10.0\ConcurrentLab.Domain.pdb
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.AssemblyInfoInputs.cache
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.AssemblyInfo.cs
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.sourcelink.json
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.dll
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\refint\ConcurrentLab.Domain.dll
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ConcurrentLab.Domain.pdb
+C:\Users\samuele.iudica\Desktop\Concurrent_Parallel_Programming\src\ConcurrentLab\ConcurrentLab.Domain\obj\Debug\net10.0\ref\ConcurrentLab.Domain.dll

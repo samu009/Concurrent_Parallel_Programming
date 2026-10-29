@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConcurrentLab.Console/1.0.0": {
+        "dependencies": {
+          "ConcurrentLab.Domain": "1.0.0",
+          "Labs.Console": "1.0.0"
+        },
+        "runtime": {
+          "ConcurrentLab.Console.dll": {}
+        }
+      },
+      "ConcurrentLab.Domain/1.0.0": {
+        "runtime": {
+          "ConcurrentLab.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Labs.Console/1.0.0": {
+        "runtime": {
+          "Labs.Console.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConcurrentLab.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConcurrentLab.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
