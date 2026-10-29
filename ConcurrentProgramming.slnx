@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/AsyncParallelDemo/">
+    <Project Path="src/AsyncParallelDemo/AsyncParallelDemo.Console/AsyncParallelDemo.Console.csproj" />
+    <Project Path="src/AsyncParallelDemo/AsyncParallelDemo.Domain/AsyncParallelDemo.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/ConcurrentLab/">
+    <Project Path="src/ConcurrentLab/ConcurrentLab.Console/ConcurrentLab.Console.csproj" />
+    <Project Path="src/ConcurrentLab/ConcurrentLab.Domain/ConcurrentLab.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/Labs.Console/Labs.Console.csproj" />
+  </Folder>
+  <Folder Name="/src/SynchronizationDemo/">
+    <Project Path="src/SynchronizationDemo/SynchronizationDemo.Console/SynchronizationDemo.Console.csproj" />
+    <Project Path="src/SynchronizationDemo/SynchronizationDemo.Domain/SynchronizationDemo.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/ThreadDemo/">
+    <Project Path="src/ThreadDemo/ThreadDemo.Console/ThreadDemo.Console.csproj" />
+    <Project Path="src/ThreadDemo/ThreadDemo.Domain/ThreadDemo.Domain.csproj" />
+  </Folder>
+</Solution>
