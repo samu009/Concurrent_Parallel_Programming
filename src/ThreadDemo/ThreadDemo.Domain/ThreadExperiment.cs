@@ -32,7 +32,18 @@ public class ThreadExperiments
         {
             for (int i=0; i<= iterations; i++)
             {
-                count +=1;
+                if (userlock)
+                {
+                    lock (gatelock)
+                    {
+                        count +=1;
+                    }
+                }
+                else
+                {
+                    count +=1;
+                }
+               
             }
         }
 
